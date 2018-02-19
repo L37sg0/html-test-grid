@@ -2,6 +2,10 @@ svg{
     width:100%;
     opacity:1;
 }
+#one:hover,#two:hover,#three:hover,#four:hover
+{
+    r:35;	
+}
 body{
     width:100%;
     height:100%;
@@ -26,6 +30,8 @@ body{
     self-justify:stretch;
     self-align:stretch;
     background-color:orange;
+    color:black;
+    font-size:200%;
 }
 
 .container{
